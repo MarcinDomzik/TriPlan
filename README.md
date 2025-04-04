@@ -16,13 +16,14 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ### Założenia :muscle:
+- słownik - kierowca
+- słownik - samochód
+- słownik - miasto
 - Szacowanie kosztów zaplanowanej wycieczki.
 - Możliwość wybrania czasu i kolejności miejsc do odwiedzenia ze słownika.
 - Automatyczn oszacowanie kosztów transportu dla wybranej wycieczki.
 - Możliwość wybrania konkretnego samochodu oraz kierowcy
 - W dalszej rozbudowie przypisanie samochodu i kierowcy do konkrentych odcików wycieczki
-- słownik - kierowca
-- słownik - samochód
-- słownik - miasto
+
 
 ### Zrealizowane:
