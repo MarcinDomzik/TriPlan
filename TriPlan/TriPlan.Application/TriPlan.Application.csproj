@@ -6,4 +6,9 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\TriPlan.Domain\TriPlan.Domain.csproj" />
+    <ProjectReference Include="..\TriPlan.Shared\TriPlan.Shared.csproj" />
+  </ItemGroup>
+
 </Project>

@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.13.35919.96 d17.13
+VisualStudioVersion = 17.13.35919.96
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TriPlan", "TriPlan\TriPlan\TriPlan.csproj", "{8209E282-908D-48A7-B0AD-FD836E12AD31}"
 EndProject
@@ -14,6 +14,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TriPlan.Shared", "TriPlan.Shared\TriPlan.Shared.csproj", "{25489401-8887-408C-A2F3-A3236970922B}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TriPlan.Application", "TriPlan.Application\TriPlan.Application.csproj", "{951C4430-B02C-4EA2-AB7E-E9E85D2B8698}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TriPlan.WebApi", "TriPlan.WebApi\TriPlan.WebApi.csproj", "{35085FF0-287B-4BC1-94ED-F48D4C4C3EB1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{951C4430-B02C-4EA2-AB7E-E9E85D2B8698}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{951C4430-B02C-4EA2-AB7E-E9E85D2B8698}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{951C4430-B02C-4EA2-AB7E-E9E85D2B8698}.Release|Any CPU.Build.0 = Release|Any CPU
+		{35085FF0-287B-4BC1-94ED-F48D4C4C3EB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35085FF0-287B-4BC1-94ED-F48D4C4C3EB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35085FF0-287B-4BC1-94ED-F48D4C4C3EB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35085FF0-287B-4BC1-94ED-F48D4C4C3EB1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
